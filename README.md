@@ -129,7 +129,7 @@ Please read [UAL's guidance for students on how they will be assessed](https://w
   1. Multiple Choice Test: students will be presented with a series of questions relating explicitly to course content. They must choose between up to 4 potential correct answers per question. Test will be sat on TBC January 2026, 1000-1200, duration two hours. This test will be worth 50% of your overall unit mark.
   2. Practical Exam: students will be individually asked to write a basic program to demonstrate the application of creative coding to a set problem. Exam will be sat on TBC January 2026, 1000-1200, duration two hours. This exam will be worth 50% of your overall unit mark.
 
-- **ML One: Introducing Machine Learning with CoreML**:
+- **ML 1: Introducing Machine Learning with CoreML**:
 
   1. Multiple Choice test: students will be presented with a series of questions relating explicitly to course content. They must choose between up to 4 potential correct answers per question. Test will be sat on TBC January 2026, 1000-1200, duration two hours. This test will be worth 50% of your overall unit mark.
   2. Presentation: You will give a presentation around a Apple ML model to your peers and the upload of the ‘slide deck’ from the presentation. Presentation will be given on TBC January 2026, 1000-1300, duration 30 minutes. This presentation will be worth 50% of your overall unit mark.
