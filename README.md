@@ -14,7 +14,7 @@ Lecture slides, wiki and examples from Creative Coding Institute's 2025/2026 spa
   - Tuesday morning: 0930-1330, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501F, taught by [Joel](https://joelgethinlewis.com).
     - Block 1: Coding 1: Swift and Swift UI
     - Block 2: Coding 2: Further Apple Frameworks
-  - Tusday afternoon: independent study
+  - Tuesday afternoon: independent study
   - Wednesday morning: independent study
   - Wednesday afternoon: independent study
   - Thursday morning: 0930-1330, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501D, taught by [Xiaowan](https://xiaowan-yi.com).
@@ -29,7 +29,7 @@ Lecture slides, wiki and examples from Creative Coding Institute's 2025/2026 spa
 - [Course Moodle link (UAL access only)](https://moodle.arts.ac.uk/course/view.php?id=85897)
 - [Lecture and Workshop slides](https://jgl.github.io/DiplomaInAppleDevelopment-2025-2026/)
 - Please see the [course wiki for all non-lecture notes, list of people on the course and other resources](https://github.com/JGL/DiplomaInAppleDevelopment-2025-2026/wiki).
-- Please email CCI Undergraduate Programme Admin for help with any administrative matters such as ID access, finance, timetable issues, etc. Their email is cci.ug@arts.ac.uk.
+- Please email CCI Undergraduate Programme Admin for help with any administrative matters such as ID access, finance, timetable issues, etc. Their email is [cci.ug@arts.ac.uk](mailto:cci.ug@arts.ac.uk).
 
 ## Code of Conduct
 
@@ -186,7 +186,7 @@ See: <https://www.arts.ac.uk/students/student-diversity/student-parent-and-carer
 
 ## Disability Service information
 
-The Disability Adviser for Creative Computing Institute is Caroline Huntley. Their contact details are c.huntley@arts.ac.uk. All appointments are confidential, and can be in-person, on the phone, or on Microsoft Teams. You can also call 020 7514 6156 or email disability@arts.ac.uk.
+The Disability Adviser for Creative Computing Institute is Caroline Huntley. Their contact details are [c.huntley@arts.ac.uk](mailto:c.huntley@arts.ac.uk). All appointments are confidential, and can be in-person, on the phone, or on Microsoft Teams. You can also call 020 7514 6156 or email [disability@arts.ac.uk](mailto:disability@arts.ac.uk).
 
 All appointments are confidential, and can be in-person, on the phone, or on Microsoft Teams.
 
