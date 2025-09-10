@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-  <title>Diploma in Apple Development 🍎👩🏻‍💻: 2025/2026: Spatial 1: Lecture 5: Shapes, Windows, Volumes and Spaces in visionOS.</title>
+  <title>Diploma in Apple Development 🍎👩🏻‍💻: 2025/2026: Spatial 1: Lecture 5: RealityKit and Reality Composer Pro.</title>
   <!-- This whole presentation was made with Big: https://github.com/tmcw/big -->
 
   <link href="../big/big.css" rel="stylesheet" type="text/css" />
@@ -26,50 +26,59 @@
 </head>
 
 <body>
-  <div>Diploma in Apple Development 🍎👩🏻‍💻: Spatial 1: Lecture 5: Shapes, Windows, Volumes and Spaces in visionOS.<br /><a href="../index.html">Back to slide index</a>.</div>
+  <div>Diploma in Apple Development 🍎👩🏻‍💻: Spatial 1: Lecture 5: RealityKit and Reality Composer Pro.<br /><a href="../index.html">Back to slide index</a>.</div>
   <div>Hi!</div>
   <div>First, don't forget to confirm your attendance using the Seats Mobile app!</div>
   <div>Second, I'm going to start every lecture with a meditation from the fantastic <a href="https://www.shambhala.com/sittingstilllikeafrog/">Sitting Still Like a Frog book</a>, all read by Myla Kabat-Zinn. If you don't want to participate that's completely fine.</div>
   <div>Let's start by watching some videos from WWDC.</div>
   <div>
-    <a href="https://developer.apple.com/videos/play/wwdc2023/10109/">"Meet SwiftUI for spatial computing" (26 mins)</a>
+    <a href="https://developer.apple.com/videos/play/wwdc2024/10086/">"Design great visionOS apps" (20 mins)</a>
     <br />
-    "Take a tour of the solar system with us and explore SwiftUI for visionOS! Discover how you can build an entirely new universe of apps with windows, volumes, and spaces. We'll show you how to get started with SwiftUI on this platform as we build an astronomy app, add 3D content, and create a fully immersive experience to transport people to the stars."
+    "Find out how to create compelling spatial computing apps by embracing immersion, designing for eyes and hands, and taking advantage of depth, scale, and space. We'll share several examples of great visionOS apps and explore how their designers approached creating new experiences for the platform."
   </div>
   <div>
-    <a href="https://developer.apple.com/videos/play/wwdc2023/10110">"Elevate your windowed app for spatial computing" (16 mins)</a>
+    <a href="https://developer.apple.com/videos/play/wwdc2024/10096/">"Design interactive experiences for visionOS" (21 mins)</a>
     <br />
-    "Discover how you can bring your multiplatform SwiftUI app to visionOS and the Shared Space. We'll show you how to add the visionOS destination to an existing app and view your app in the Simulator. Explore how your SwiftUI code automatically adapts to support the unique context and presentation of the visionOS platform. Learn how you can update custom views, improve your app's UI, and add features and controls specific to this platform."
+    "Learn how you can design a compelling interactive narrative experience for Apple Vision Pro from the designers of Encounter Dinosaurs. Discover how these types of experiences differ from existing apps, media, and games, and explore how to design narratives that bring audiences into new worlds. Find out how you can create stories that adapt to any space and size, provide multiple levels of interaction to make them accessible to all, and use animation, spatial audio, and custom gestures to further immerse people in your experience."
   </div>
+  <div>Let's continue by reminding ourselves <a href="https://developer.apple.com/documentation/realitykit">what RealityKit is, and how it relates to ARKit</a>. We'll be going into much more detail on ARKit in Coding 2 in Block 2. Recall that RealityKit has a <a href="https://developer.apple.com/documentation/visionos/understanding-the-realitykit-modular-architecture">modular architecture - entities, components and systems (ECS)</a>. <a href="https://en.wikipedia.org/wiki/Entity_component_system">ECS is used in many games and game engines</a>. Let's read this <a href="https://developer.apple.com/documentation/RealityKit/implementing-systems-for-entities-in-a-scene">article that goes into more detail on implementing systems in RealityKit</a>. Recall that it's possible to <a href="https://developer.apple.com/documentation/visionOS/creating-fully-immersive-experiences">have multiple fully immersive RealityKit scenes in a single app</a>.</div>
+  <div>Let's continue by exploring Apple's app for creating RealityKit content: <a href="https://developer.apple.com/documentation/realitycomposerpro">Reality Composer Pro</a>.</div>
   <div>
-    <a href="https://developer.apple.com/videos/play/wwdc2023/10113/">"Take SwiftUI to the next dimension" (20 mins)</a>
+    <a href="https://developer.apple.com/videos/play/wwdc2023/10083/">"Meet Reality Composer Pro" (22 mins)</a>
     <br />
-    "Get ready to add depth and dimension to your visionOS apps. Find out how to bring three-dimensional objects to your app using volumes, get to know the Model 3D API, and learn how to position and animate content. We'll also show you how to use UI attachments in RealityView and support gestures in your content."
+    "Discover how to easily compose, edit, and preview 3D content with Reality Composer Pro. Follow along as we explore this developer tool by setting up a new project, composing scenes, adding particle emitters and audio, and even previewing content on device. Once you're familiar with the basics of Reality Composer Pro, check out "Explore Materials in Reality Composer Pro" and "Work with Reality Composer Pro content in Xcode" to learn more advanced techniques and tips."
+    <br />
+    Let's mirror the video by copying it on our own machines.
   </div>
   <div>
-    Together, let's continue Apple's <a href="https://developer.apple.com/tutorials/develop-in-swift/welcome-to-develop-in-swift-tutorials">Develop in Swift Tutorials</a> from Coding One - moving onto: <a href="https://developer.apple.com/tutorials/develop-in-swift/welcome-to-spatial-computing">Welcome to spatial computing</a>, continuing to <a href="https://developer.apple.com/tutorials/develop-in-swift/add-depth-to-your-app">Add depth to your app</a>, before finishing with <a href="https://developer.apple.com/tutorials/develop-in-swift/windows-in-visionos-conclusion">Wrap-up: Windows in visionOS</a>.
+    <a href="https://developer.apple.com/videos/play/wwdc2023/10202/">"Explore Materials in Reality Composer Pro" (21 mins)</a>
+    <br />
+    "Learn how Reality Composer Pro can help you alter the appearance of your 3D objects using RealityKit materials. We'll introduce you to MaterialX and physically-based (PBR) shaders, show you how to design dynamic materials using the shader graph editor, and explore adding custom inputs to a material so that you can control it in your visionOS app. To get the most out of this session, we recommend first watching “Meet Reality Composer Pro.” Once you're ready to learn how you can incorporate your models and materials into an Xcode project, check out "Work with Reality Composer Pro content in Xcode."
+    <br />
+    Let's mirror the video by copying it on our own machines.
   </div>
   <div>
-    Next, Apple has produced a set of <a href="https://developer.apple.com/documentation/visionos/introductory-visionos-samples">introductory visionOS samples</a>. Let's start exploring them: <a href="https://developer.apple.com/documentation/visionos/creating-2d-shapes-in-visionos-with-swiftui">"Draw two-dimensional shapes in your visionOS app with SwiftUI shapes or with your custom shapes"</a> and <a href="https://developer.apple.com/documentation/visionos/creating-a-new-swiftui-window-in-visionos">"Creating SwiftUI windows in visionOS"</a>.
-  </div>
-  <div>
-    Finally, let's <a href="https://developer.apple.com/documentation/visionOS/World">explore the Xcode project for the Hello World project</a> that we were introduced to at the beginning of today.
+    <a href="https://developer.apple.com/videos/play/wwdc2023/10273/">"Work with Reality Composer Pro content in Xcode" (35 mins)</a>
+    <br />
+    "Learn how to bring content from Reality Composer Pro to life in Xcode. We'll show you how to load 3D scenes into Xcode, integrate your content with your code, and add interactivity to your app. We'll also share best practices and tips for using these tools together in your development workflow. To get the most out of this session, we recommend first watching “Meet Reality Composer Pro” and “Explore materials in Reality Composer Pro" to learn more about creating 3D scenes."
+    <br />
+    Let's mirror the video by copying it on our own machines.
   </div>
   <div>What questions do you have for me?</div>
   <div>
-    Next week, you will be presenting your group projects again. Please complete the following in time for next Friday:
+    Next week, you will be presenting your group projects again. Please complete the following in time for next Friday, let's work on it together now if there is time:
     <ol>
       <li>
-        Page 16 of the App Design Workbook: "Consider Diversity"
+        Page 16 of the <a href="https://education-static.apple.com/coding-club-kit/appworkbook.key">App Design Workbook</a>: "Consider Diversity"
       </li>
       <li>
-        Page 17 of the App Design Workbook: "Summarize (sic) Your Audience"
+        Page 17 of the <a href="https://education-static.apple.com/coding-club-kit/appworkbook.key">App Design Workbook</a>: "Summarize (sic) Your Audience"
       </li>
       <li>
-        Page 20 of the App Design Workbook: "Analyze (sic) causes"
+        Page 20 of the <a href="https://education-static.apple.com/coding-club-kit/appworkbook.key">App Design Workbook</a>: "Analyze (sic) causes"
       </li>
       <li>
-        Page 22 of the App Design Workbook: "Research competitors"
+        Page 22 of the <a href="https://education-static.apple.com/coding-club-kit/appworkbook.key">App Design Workbook</a>: "Research competitors"
       </li>
       <li>
         In addition, please review all of the content from today's lecture.

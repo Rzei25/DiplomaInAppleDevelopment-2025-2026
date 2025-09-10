@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-  <title>Diploma in Apple Development 🍎👩🏻‍💻: 2025/2026: Spatial 1: Lecture 9: RealityKit.</title>
+  <title>Diploma in Apple Development 🍎👩🏻‍💻: 2025/2026: Spatial 1: Lecture 9: SwiftUI.</title>
   <!-- This whole presentation was made with Big: https://github.com/tmcw/big -->
 
   <link href="../big/big.css" rel="stylesheet" type="text/css" />
@@ -26,39 +26,57 @@
 </head>
 
 <body>
-  <div>Diploma in Apple Development 🍎👩🏻‍💻: Spatial 1: Lecture 9: RealityKit.
+  <div>Diploma in Apple Development 🍎👩🏻‍💻: Spatial 1: Lecture 9: SwiftUI.
     <br />
     <a href="../index.html">Back to slide index</a>.
   </div>
   <div>Hi!</div>
   <div>First, don't forget to confirm your attendance using the Seats Mobile app!</div>
   <div>Second, I'm going to start every lecture with a meditation from the fantastic <a href="https://www.shambhala.com/sittingstilllikeafrog/">Sitting Still Like a Frog book</a>, all read by Myla Kabat-Zinn. If you don't want to participate that's completely fine.</div>
-  <div>Let's start by watching some WWDC videos about RealityKit.</div>
+  <div>Let's start by watching some WWDC videos about SwiftUI.</div>
   <div>
-    <a href="https://developer.apple.com/videos/play/wwdc2023/10080/">"Build spatial experiences with RealityKit" (28 mins)</a>
+    <a href="https://developer.apple.com/videos/play/wwdc2022/10001/">"Explore navigation design for iOS" (25 mins)</a>
     <br />
-    "Discover how RealityKit can bring your apps into a new dimension. Get started with RealityKit entities, components, and systems, and learn how you can add 3D models and effects to your app on visionOS. We'll also take you through the RealityView API and demonstrate how to add 3D objects to windows, volumes, and spaces to make your apps more immersive. And we'll explore combining RealityKit with spatial input, animation, and spatial audio."
+    "Familiar navigation patterns can help people easily explore the information within your app — and save them from unnecessary confusion. We'll show you how to take advantage of existing navigation structures to simplify complex interactions in your app without compromising its personality. Learn best practices and common pitfalls when working with tab bars, modality, and more."
   </div>
   <div>
-    <a href="https://developer.apple.com/videos/play/wwdc2023/10081/">"Enhance your spatial computing app with RealityKit" (21 mins)</a>
+    <a href="https://developer.apple.com/videos/play/wwdc2024/10149/">"Work with windows in SwiftUI" (13 mins)</a>
     <br />
-    "Go beyond the window and learn how you can bring engaging and immersive 3D content to your apps with RealityKit. Discover how SwiftUI scenes work in tandem with RealityView and how you can embed your content into an entity hierarchy. We'll also explore how you can blend virtual content and the real world using anchors, bring particle effects into your apps, add video content, and create more immersive experiences with portals."
-  </div>
-  <div>Let's continue by reminding ourselves <a href="https://developer.apple.com/documentation/realitykit">what RealityKit is, and how it relates to ARKit</a>. We'll be going into much more detail on ARKit in Coding 2 in Block 2. Recall that RealityKit has a <a href="https://developer.apple.com/documentation/visionos/understanding-the-realitykit-modular-architecture">modular architecture - entities, components and systems (ECS)</a>. <a href="https://en.wikipedia.org/wiki/Entity_component_system">ECS is used in many games and game engines</a>. Let's read this <a href="https://developer.apple.com/documentation/RealityKit/implementing-systems-for-entities-in-a-scene">article that goes into more detail on implementing systems in RealityKit</a>. Recall that it's possible to <a href="https://developer.apple.com/documentation/visionOS/creating-fully-immersive-experiences">have multiple fully immersive RealityKit scenes in a single app</a>.</div>
-  <div>
-    Let's watch another video, from this year's WWDC 2024.
+    "Learn how to create great single and multi-window apps in visionOS, macOS, and iPadOS. Discover tools that let you programmatically open and close windows, adjust position and size, and even replace one window with another. We'll also explore design principles for windows that help people use your app within their workflows."
   </div>
   <div>
-    <a href="https://developer.apple.com/videos/play/wwdc2024/10103/">"Discover RealityKit APIs for iOS, macOS and visionOS" (32 mins)</a>
+    <a href="https://developer.apple.com/videos/play/wwdc2023/10115/">"Design with SwiftUI" (20 mins)</a>
     <br />
-    "Learn how new cross-platform APIs in RealityKit can help you build immersive apps for iOS, macOS, and visionOS. Check out the new hover effects, lights and shadows, and portal crossing features, and view them in action through real examples."
+    "Discover how SwiftUI can help you quickly iterate and explore design ideas. Learn from Apple designers as they share how working with SwiftUI influenced the design of the Maps app in watchOS 10 and other elements of their work, and find out how you can incorporate these workflows in your own process"
   </div>
   <div>
-    Let's take a look at the <a href="https://developer.apple.com/documentation/realitykit/creating-a-spaceship-game">content associated with that previous talk</a>.
+    <a href="https://developer.apple.com/videos/play/wwdc2023/10109/">"Meet SwiftUI for spatial computing" (26 mins)</a>
+    <br />
+    "Take a tour of the solar system with us and explore SwiftUI for visionOS! Discover how you can build an entirely new universe of apps with windows, volumes, and spaces. We'll show you how to get started with SwiftUI on this platform as we build an astronomy app, add 3D content, and create a fully immersive experience to transport people to the stars."
+  </div>
+  <div>
+    <a href="https://developer.apple.com/videos/play/wwdc2023/10110">"Elevate your windowed app for spatial computing" (16 mins)</a>
+    <br />
+    "Discover how you can bring your multiplatform SwiftUI app to visionOS and the Shared Space. We'll show you how to add the visionOS destination to an existing app and view your app in the Simulator. Explore how your SwiftUI code automatically adapts to support the unique context and presentation of the visionOS platform. Learn how you can update custom views, improve your app's UI, and add features and controls specific to this platform."
+  </div>
+  <div>
+    <a href="https://developer.apple.com/videos/play/wwdc2023/10260/">"Get started with building apps for spatial computing" (32 mins)</a>
+    <br />
+    "Get ready to develop apps and games for visionOS! Discover the fundamental building blocks that make up spatial computing — windows, volumes, and spaces — and find out how you can use these elements to build engaging and immersive experiences."
+  </div>
+  <div>
+    <a href="https://developer.apple.com/videos/play/wwdc2023/10203/">"Develop your first immersive app" (32 mins)</a>
+    <br />
+    "Find out how you can build immersive apps for visionOS using Xcode and Reality Composer Pro. We'll show you how to get started with a new visionOS project, use Xcode Previews for your SwiftUI development, and take advantage of RealityKit and RealityView to render 3D content."
+  </div>
+  <div>
+    <a href="https://developer.apple.com/videos/play/wwdc2023/10113/">"Take SwiftUI to the next dimension" (20 mins)</a>
+    <br />
+    "Get ready to add depth and dimension to your visionOS apps. Find out how to bring three-dimensional objects to your app using volumes, get to know the Model 3D API, and learn how to position and animate content. We'll also show you how to use UI attachments in RealityView and support gestures in your content."
   </div>
   <div>What questions do you have for me?</div>
   <div>
-    See you next Wednesday! Please review all of the content from today's lecture before then, as well as completing the following pages from the App Design Workbook:
+    See you next lecture! Please review all of the content from today's lecture before then, as well as completing the following pages from the <a href="https://education-static.apple.com/coding-club-kit/appworkbook.key">App Design Workbook</a> - let's work on it now if we have time:
     <ol>
       <li>
         Page 48 of the App Design Workbook: "Outline Screens"
