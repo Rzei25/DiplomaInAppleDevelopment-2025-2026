@@ -93,7 +93,7 @@ Block 1 consists of three units, studied in parallel:
 
 Block 2 consists of three units, studied in parallel:
 
-1. **Coding 2: Further Apple Frameworks**. This unit explores further Apple frameworks for developing on visionOS. With this introduction you will be able to create engaging experiences on the visionOS platform and explore some of the advanced features of the Apple platform such as RealityKit, ARKit and Vision. Unit taught by [Joel](https://joelgethinlewis.com). [Coding 2 Moodle link (UAL access only)](https://moodle.arts.ac.uk/course/view.php?id=81647). Learning outcomes:
+1. **Coding 2: Further Apple Frameworks**. This unit explores further Apple frameworks for developing on visionOS. With this introduction you will be able to create engaging experiences on the visionOS platform and explore some of the advanced features of the Apple platform such as RealityKit, ARKit and Vision. Unit taught by [Joel](https://joelgethinlewis.com). [Coding 2 Moodle link (UAL access only)](https://moodle.arts.ac.uk/course/view.php?id=88340). Learning outcomes:
    1. Identify how games are developed on visionOS (Process)
    2. Employ game development tools and frameworks for visionOS (Enquiry)
    3. Demonstrate foundational concepts of app design (Knowledge)
