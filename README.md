@@ -12,18 +12,18 @@ Lecture slides, wiki and examples from Creative Coding Institute's 2025/2026 spa
   - Monday morning: 1030-1300: Slack 1-1 tutorials. For more information and detailed schedule, see [the course wiki tutorial page](https://github.com/JGL/DiplomaInAppleDevelopment-2025-2026/wiki/Tutorial-Schedule). If **your next** tutorial is too far away, or you have a more urgent question, please message Joel on the [UAL CCI Slack](https://ual-cci.slack.com)!
   - Monday afternoon: independent study
   - Tuesday morning: 0930-1330, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501F, taught by [Joel](https://joelgethinlewis.com).
-    - Block 1: Coding 1: Swift and Swift UI
-    - Block 2: Coding 2: Further Apple Frameworks
+    - Block 1: Coding 1: Swift and SwiftUI
+    - Block 2: Coding 2: Further Apple frameworks
   - Tuesday afternoon: independent study
   - Wednesday morning: independent study
   - Wednesday afternoon: independent study
   - Thursday morning: 0930-1330, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501D, taught by [Xiaowan](https://xiaowan-yi.com).
-    - Block 1: ML 1: Introducing Machine Learning with Core ML
-    - Block 2: ML 2: Making Models with Create ML
+    - Block 1: ML 1: Introducing machine learning with CoreML
+    - Block 2: ML 2: Making models with CreateML
   - Thursday afternoon: independent study
   - Friday morning: 0930-1330, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501F, taught by [Joel](https://joelgethinlewis.com).
-    - Block 1: Spatial 1: Individual App Design and Launch
-    - Block 2: Spatial 2: Further Apple Frameworks
+    - Block 1: Spatial 1: Team App Design, User Experience Research and Rapid prototyping
+    - Block 2: Spatial 2: Individual App Design and Launch
   - Friday afternoon: independent study
 - _**You are expected to undertake independent study of about 25 hours per week - spread across all the units of the Diploma in Apple Development.**_
 - [Course Moodle link (UAL access only)](https://moodle.arts.ac.uk/course/view.php?id=85897)
@@ -127,33 +127,33 @@ Please read [UAL's guidance for students on how they will be assessed](https://w
 
 - **Coding 1: Swift and SwiftUI**:
 
-  1. Multiple Choice Test: students will be presented with a series of questions relating explicitly to course content. They must choose between up to 4 potential correct answers per question. Test will be sat on TBC January 2026, 1000-1200, duration two hours. This test will be worth 50% of your overall unit mark.
-  2. Practical Exam: students will be individually asked to write a basic program to demonstrate the application of creative coding to a set problem. Exam will be sat on TBC January 2026, 1000-1200, duration two hours. This exam will be worth 50% of your overall unit mark.
+  1. Multiple Choice Test: students will be presented with a series of questions relating explicitly to course content. They must choose between up to 4 potential correct answers per question. Test will be sat on Tuesday 20th January 2026, 1000-1200, duration two hours. This test will be worth 50% of your overall unit mark.
+  2. Practical Exam: students will be individually asked to write a basic program to demonstrate the application of creative coding to a set problem. Exam will be sat on Tuesday 27th January 2026, 1000-1200, duration two hours. This exam will be worth 50% of your overall unit mark.
 
 - **ML 1: Introducing Machine Learning with CoreML**:
 
-  1. Multiple Choice test: students will be presented with a series of questions relating explicitly to course content. They must choose between up to 4 potential correct answers per question. Test will be sat on TBC January 2026, 1000-1200, duration two hours. This test will be worth 50% of your overall unit mark.
-  2. Presentation: You will give a presentation around a Apple ML model to your peers and the upload of the ‘slide deck’ from the presentation. Presentation will be given on TBC January 2026, 1000-1300, duration 30 minutes. This presentation will be worth 50% of your overall unit mark.
+  1. Multiple Choice test: students will be presented with a series of questions relating explicitly to course content. They must choose between up to 4 potential correct answers per question. Test will be sat on Thursday 22nd January 2026, 1000-1200, duration two hours. This test will be worth 50% of your overall unit mark.
+  2. Presentation: You will give a presentation around a Apple ML model to your peers and the upload of the ‘slide deck’ from the presentation. Presentation will be given on Thursday 29th January 2026, 1000-1300, duration 30 minutes. This presentation will be worth 50% of your overall unit mark.
 
 - **Spatial 1: Team App Design, User Experience Research and Rapid prototyping**:
 
-  1. Presentation: You will present your creative work to your peers and upload the 'slide deck' from the presentation. Presentation will be given on TBC January 2025, 1000-1300, duration 30 minutes. This presentation will be worth 100% of your overall unit mark.
+  1. Presentation: You will present your creative work to your peers and upload the 'slide deck' from the presentation. Presentation will be given on Friday 30th January 2026, 1000-1300, duration 30 minutes. This presentation will be worth 100% of your overall unit mark.
 
 ### Block 2 Assessment
 
 - **Coding 2: Further Apple Frameworks**:
 
-  1. Multiple Choice test: students will be presented with a series of questions relating explicitly to course content. They must choose between up to 4 potential correct answers per question. This test will be sat on TBC June 2025, duration two hours, 1000-1200. This test will be worth 50% of your overall unit mark.
-  2. Practical Exam: students will be individually asked to write a basic program to demonstrate the application of creative coding to a set problem. This exam will be sat on TBC June 2025, duration two hours, 1000-1200. This exam will be worth 50% of your overall unit mark.
+  1. Multiple Choice test: students will be presented with a series of questions relating explicitly to course content. They must choose between up to 4 potential correct answers per question. This test will be sat on Tuesday 2nd June 2026, duration two hours, 1000-1200. This test will be worth 50% of your overall unit mark.
+  2. Practical Exam: students will be individually asked to write a basic program to demonstrate the application of creative coding to a set problem. This exam will be sat on Tuesady 9th June 2026, duration two hours, 1000-1200. This exam will be worth 50% of your overall unit mark.
 
 - **ML 2: Making Models with CreateML**:
 
-  1. Multiple Choice test: students will be presented with a series of questions relating explicitly to course content. They must choose between up to 4 potential correct answers per question. This test will be sat on TBC June 2025, duration two hours, 1000-1200. This test will be worth 50% of your overall unit mark.
-  2. Presentation: You will give a presentation around a bespoke ML model to your peers and upload the ‘slide deck’ from the presentation. This presentation will be given on TBC June 2025, duration 30 minutes, 1000-1300. This presentation will be worth 50% of your overall unit mark.
+  1. Multiple Choice test: students will be presented with a series of questions relating explicitly to course content. They must choose between up to 4 potential correct answers per question. This test will be sat on Thursday 4th June 2026, duration two hours, 1000-1200. This test will be worth 50% of your overall unit mark.
+  2. Presentation: You will give a presentation around a bespoke ML model to your peers and upload the ‘slide deck’ from the presentation. This presentation will be given on Thursday 11th June 2026, duration 30 minutes, 1000-1300. This presentation will be worth 50% of your overall unit mark.
 
 - **Spatial 2: Individual App Design and Launch**:
 
-  1. Presentation: You will present your creative work to your peers and upload the 'slide deck' from the presentation. This presentation will be given on TBC June, duration 30 minutes, 1000-1300. This presentation will be worth 100% of your overall unit mark.
+  1. Presentation: You will present your creative work to your peers and upload the 'slide deck' from the presentation. This presentation will be given on Friday 12th June 2026, duration 30 minutes, 1000-1300. This presentation will be worth 100% of your overall unit mark.
 
 Finally, some tips about how to get the best grades possible:
 
